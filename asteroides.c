@@ -1,25 +1,25 @@
-
 #include <stdio.h>
 #include <stdlib.h>
 
+
 int main(){
-   FILE * fp;
-   int cont=0,aux=0,i,j;
-   char info[160],id[5];
+   	FILE * fp;
+   	int cont=0,aux=0,i,j;
+	char info[160],id[5];
 	
-   fp = fopen ("base2.txt", "r");
-   while((fgets(info, sizeof(info), fp)) != NULL){
+   	fp = fopen ("base2.txt", "r");
+   	while((fgets(info, sizeof(info), fp)) != NULL){
 		for(i=0;i<160;i++){
 			if(cont == 11){
 				
 				if(info[i] == ')'){
-					printf("ID do asteroide = ");
+					//printf("ID do asteroide = ");
 					for(j=0;j<5;j++){
 						if(id[j] != 'x')
 							printf("%c",id[j]);
 						id[j] = 'x';	
 					}
-					printf("\n");	
+					printf(";\n");	
 					aux = 0;
 				}
 				
@@ -41,13 +41,10 @@ int main(){
 			}
 			
 			else if(aux == 0)
-				cont = 0;
-			
+				cont = 0;	
 		}
-	   
+   	}
+   	fclose(fp);
    
-   }
-   fclose(fp);
-   
-   return(0);
+   	return(0);
 }
