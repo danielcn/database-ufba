@@ -9,4 +9,4 @@ estad : 52(1/1)
 
 
 
-estad é o sufixo que se repete na base 52 vezes, aparecendo 2 vezes como "estados" e 50 vezes como "estado"
+estad é o radical que se repete na base 52 vezes, aparecendo 2 vezes como "estados" e 50 vezes como "estado"

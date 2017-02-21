@@ -1,1 +1,1 @@
-Não consegui visualizar/entender essas informações, talvez de pra abrir no Excel ou no R. Porém não tenho essas ferramentas aqui kkkk
+Tabela atributo-valor utilizando a abordagem bag of words, gerada pelo PreTexT 2 .
