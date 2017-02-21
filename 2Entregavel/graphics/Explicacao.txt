@@ -1,1 +1,0 @@
-Gráficos gerados pelo pré-processamento do PreTexT 2. Possível abrir com gnuplot.
