@@ -1,0 +1,13 @@
+Já nessa pasta, ele exibe 3 informaçõs distintas: O 1Gram, mostra quantas vezes "1" palavra aparece na base. oBS: Não sei pq ele duplicou esse dado, exemplo, estad aparece 52 vezes, porém ele gerou no arquivo a seguinte linha : "104:(2/1):estad"   104/2 = 52.
+
+
+
+
+O 4Gram mostra quantas vezes uma sequência de 4 sufixos aparece no texto. Obs: Achei muito interessante e importante esse dado, acho que é mais ou menos isso que a professora quer. Exemplo : "14:(1/1):localiz_estad_nort_american"
+
+Ou seja, na nossa base, aparece uma frase do tipo "localizado no estado norte americano" 14 vezes. Obs: Ele já ignora as preposições.
+Obs2: Esse dado ele não duplicou, pelo que eu entendi tem haver com o parentese, no 1 gram ele esta (2/1) significa que tem que dividir por 2, já no 4Gram ele esta (1/1), tendo que dividir por 1 que da no mesmo.
+
+
+
+E por fim o 9Gram que segue a mesma lógica, só que dessa vez com uma sequencia de 9 sufixos.
