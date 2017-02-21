@@ -11,3 +11,7 @@ Obs2: Esse dado ele não duplicou, pelo que eu entendi tem haver com o parentese,
 
 
 E por fim o 9Gram que segue a mesma lógica, só que dessa vez com uma sequencia de 9 sufixos.
+
+
+
+OBS FINAL: abrir os arquivos .all para visualizar a informação, n sei pra que serve o txt.
