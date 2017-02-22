@@ -1,4 +1,4 @@
-Esses dois arquivos mostram a frequencia que uma palabra se repete na base de dados, o primeiro mostra isso em ordem alfabetica das palavras e o segundo em ordem de frequência do menor para o maior. Exemplo :
+Esses dois arquivos mostram a frequencia que uma palavra se repete na base de dados, o primeiro mostra isso em ordem alfabetica das palavras e o segundo em ordem de frequência do menor para o maior. Exemplo :
 
 
 
