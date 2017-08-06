@@ -1,2 +1,2 @@
-# database-ufba-2017.1
-Repository - Database discipline at Ufba 2017.1
+# database-ufba
+Repository - Database discipline at Ufba
